@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="385276d3-1a08-4eef-a498-44899bcb1082" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="25PUcb6fK6h1T0iBlXnVY6OvBTQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Vue" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MazeSolover\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MazePathfinding.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/MazePathfinding.js" working-dir="$PROJECT_DIR$/src">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.MazePathfinding.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="385276d3-1a08-4eef-a498-44899bcb1082" name="Default Changelist" comment="" />
+      <created>1645428297664</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645428297664</updated>
+      <workItem from="1645428299225" duration="9612000" />
+      <workItem from="1645489819817" duration="634000" />
+      <workItem from="1645490506207" duration="701000" />
+      <workItem from="1645491246078" duration="6000" />
+      <workItem from="1645491898876" duration="29000" />
+      <workItem from="1645492221540" duration="16359000" />
+      <workItem from="1645517584264" duration="1506000" />
+      <workItem from="1645574444114" duration="3107000" />
+      <workItem from="1645579555788" duration="6151000" />
+      <workItem from="1645595782705" duration="180000" />
+      <workItem from="1645602341906" duration="2078000" />
+      <workItem from="1645686337626" duration="2176000" />
+      <workItem from="1645747245733" duration="28000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="838" y="379" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1645430159274">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="838" y="379" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.65.1920.1040@0.0.1920.1040" timestamp="1645430159274" />
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom" timestamp="1645497002833">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.67.1920.1040@0.0.1920.1040" timestamp="1645497002833" />
+    <state width="1340" height="266" key="GridCell.Tab.0.center" timestamp="1645497002833">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.67.1920.1040@0.0.1920.1040" timestamp="1645497002833" />
+    <state width="1340" height="266" key="GridCell.Tab.0.left" timestamp="1645497002832">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.67.1920.1040@0.0.1920.1040" timestamp="1645497002832" />
+    <state width="1340" height="266" key="GridCell.Tab.0.right" timestamp="1645497002833">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.67.1920.1040@0.0.1920.1040" timestamp="1645497002833" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1645428746451">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/-1920.65.1920.1040@0.0.1920.1040" timestamp="1645428746451" />
+    <state x="622" y="250" width="672" height="678" key="search.everywhere.popup" timestamp="1645580327477">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="622" y="250" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.67.1920.1040@0.0.1920.1040" timestamp="1645580327477" />
+  </component>
+</project>

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+  <script src="src/Position.js"></script>
+  <script src="src/MazeDate.js"></script>
+  <script src="src/MazePathfinding.js"></script>
+  <style>
+      .col{
+          display: flex;
+
+      }
+      .wall {
+          width: 20px;
+          height: 20px;
+          background: black;
+      }
+      .road{
+          width:20px;
+          height:20px;
+          background: white;
+      }
+      .path{
+          width:20px;
+          height: 20px;
+          background: yellow;
+      }
+  </style>
+</head>
+<body>
+
+
+<input type="file" id="fileInput" onchange="readFiles(this.files)">
+<button type="button" onclick="mazePathfingding.run()">123123123</button>
+<div id="maps">
+
+</div>
+<script>
+  let mazeDate = new MazeDate();
+
+  function readFiles(files) {
+    mazeDate.readFiles(files);
+  }
+
+</script>
+
+</body>
+</html>
